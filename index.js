@@ -50,7 +50,7 @@ function getWinners(cb) {
         } else {
             return item["Win conditions"];
         }
-})
+    })
 return winner
 };
 
